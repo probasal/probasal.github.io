@@ -4115,3 +4115,10 @@ button.scroll-top:focus{
 .subscribe-form-footer.subscribe-form-two{
     top: 0;
 }
+
+/* Custom */
+
+.header-lead{
+    font-size: 16px !important;
+    width: 80% !important;
+}

@@ -1014,7 +1014,7 @@ select.form-control.has-value{
 }
 .gradient-overly-right-light:before {
     background: -webkit-gradient(linear, left top, right top, color-stop(0, #1A2C79), to(transparent));
-    background: linear-gradient(to right, #fffafa38 30%, rgba(26, 44, 121, 0.18) 100%);
+    background: linear-gradient(to right, #e8e8e838 30%, rgba(26, 44, 121, 0.18) 100%);
 
 }
 .gradient-overly-right-color:before {

@@ -8154,4 +8154,14 @@ footer.skin-dark-footer ul.footer-bottom-social li a:focus {
 		top:auto;
 		bottom:40px
 	}
+
+
+}
+
+@media (max-width:600px) {
+	.nav-brand{
+		padding: 0;
+		margin-right: 0;
+		line-height: 42px !important;
+	}
 }
